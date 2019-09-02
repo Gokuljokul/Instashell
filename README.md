@@ -30,6 +30,17 @@ sudo ./instashell.sh
 chmod +x install.sh
 sudo ./install.sh
 ```
+### Install Tor:
+
+Download the tor browser file and launcher file,
+
+```
+cd Downloads/
+ls
+tar -xvf tor-browser-linux64-8.5.4_en-us.tar.xz
+clear
+```
+
 
 ### How it works?
 
