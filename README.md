@@ -30,7 +30,7 @@ sudo ./instashell.sh
 chmod +x install.sh
 sudo ./install.sh
 ```
-### Install Tor:
+### Install Tor and usage
 
 Download the tor browser file and launcher file,
 
@@ -61,16 +61,6 @@ Give the Instagram Account ID
 passwords.lst
 ```
 limit (like <20 to 50000)
-
-### Usage:
-```
-git clone https://github.com/Gokuljokul/instashell
-cd instashell
-chmod +x instashell.sh
-service tor start
-sudo ./instashell.sh
-```
-
 
 ### How it works?
 
