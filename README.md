@@ -39,6 +39,36 @@ cd Downloads/
 ls
 tar -xvf tor-browser-linux64-8.5.4_en-us.tar.xz
 clear
+ls
+cd /root
+cd downloads/
+ls
+cd tor-browser_en-US/
+ls
+cd browser/
+ls
+./start-tor-browser
+git clone http://github.com/Gokuljokul/Instashell.git
+service tor start
+cd instashell
+chmod 775 instashell.sh
+chmod 775 instashell.sh
+./instashell.sh
+```
+Give the Instagram Account ID
+
+```
+passwords.lst
+```
+limit (like <20 to 50000)
+
+### Usage:
+```
+git clone https://github.com/Gokuljokul/instashell
+cd instashell
+chmod +x instashell.sh
+service tor start
+sudo ./instashell.sh
 ```
 
 
